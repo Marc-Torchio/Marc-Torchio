@@ -1,6 +1,6 @@
 ##  👋 Hi, I’m @Marc-Torchio 👋
 - 👀 Looking for other budding data scientists !  
-- 🌱 Learning as much as I can about LLMs, ML models, causual analysis - I made ChatGPT my tutor, he/she/they are doing great so far.
+- 🌱 Learning as much as I can about LLMs, ML models, causual analysis - I made *ChatGPT* my tutor, he/she/they are doing great so far.
 - 📫 How to reach me: marc.c.torchio@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak fluent mandarin Chinese and do Improv for fun
