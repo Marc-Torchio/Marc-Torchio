@@ -1,4 +1,4 @@
-## - 👋 Hi, I’m @Marc-Torchio 
+##  👋 Hi, I’m @Marc-Torchio 👋
 - 👀 Looking for other budding data scientists !  
 - 🌱 Learning as much as I can about LLMs, ML models, causual analysis - I made ChatGPT my tutor, he/she/they are doing great so far.
 - 📫 How to reach me: marc.c.torchio@gmail.com
